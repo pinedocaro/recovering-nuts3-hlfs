@@ -1,5 +1,4 @@
 # Excluir archivos de microdatos pesados y confidenciales de TÜİK
-*.dta
 *.raw
 *.sav
 *.zip
