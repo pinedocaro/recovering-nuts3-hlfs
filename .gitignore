@@ -1,0 +1,20 @@
+# Excluir archivos de microdatos pesados y confidenciales de TÜİK
+*.dta
+*.raw
+*.sav
+*.zip
+*.rar
+
+# Permitir archivos CSV de metadatos o metas de población explícitas
+!population_targets.csv
+
+# Excluir archivos temporales y logs de Stata
+*.log
+*.gph
+*.smcl
+*.stsem
+~*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
