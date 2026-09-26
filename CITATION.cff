@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: "Pinedo Caro"
     given-names: "Luis"
+    orcid: "https://orcid.org/0000-0003-1448-4707"
 license: MIT
 repository-code: "https://github.com/pinedocaro/recovering-nuts3-hlfs"
 url: "https://betam.bahcesehir.edu.tr/en/2026/09/recovering-province-identifiers-from-turkish-household-labour-force-survey-microdata/"
@@ -19,6 +20,7 @@ preferred-citation:
   authors:
     - family-names: "Pinedo Caro"
       given-names: "Luis"
+      orcid: "https://orcid.org/0000-0003-1448-4707"
   year: 2026
   number: "WP202603"
   institution:
