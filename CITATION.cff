@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the working paper below."
+title: "recovering-nuts3-hlfs"
+type: software
+authors:
+  - family-names: "Pinedo Caro"
+    given-names: "Luis"
+license: MIT
+repository-code: "https://github.com/pinedocaro/recovering-nuts3-hlfs"
+url: "https://betam.bahcesehir.edu.tr/en/2026/09/recovering-province-identifiers-from-turkish-household-labour-force-survey-microdata/"
+keywords:
+  - Stata
+  - labour force survey
+  - Turkey
+  - small area estimation
+preferred-citation:
+  type: report
+  title: "Recovering Province Identifiers from Turkish Household Labour Force Survey Microdata"
+  authors:
+    - family-names: "Pinedo Caro"
+      given-names: "Luis"
+  year: 2026
+  number: "WP202603"
+  institution:
+    name: "Bahçeşehir University Center for Economic and Social Research (BETAM)"
+  url: "https://betam.bahcesehir.edu.tr/wp-content/uploads/2026/09/WP202603.pdf"
